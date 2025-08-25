@@ -30,7 +30,7 @@ requests.urllib3.disable_warnings()
 # login system
 import getpass
 
-username = "SHAHZAADA"
+username = "SHAHZADA"
 password = "BRAND"
 
 # username input
